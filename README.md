@@ -7,8 +7,11 @@ I am a MERN Stack Web Developer. I am a highly skilled professional specializing
 
 ### Skills & Experiance: 
 ✅ HTML5 & CSS3
+
 ✅ Bootstrap
+
 ✅ TailwindCSS
+
 ✅ JavaScript
 ✅ React JS
 ✅ Node.js
