@@ -15,7 +15,7 @@ Skills: HTML5 / CSS3 / Bootstrap / TailwindCSS / JavaScript / React JS / Node.js
 
 ![Johurul's GitHub stats](https://github-readme-stats.vercel.app/api?username=johuruljoy69&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johuruljoy69&repo=github-readme-stats)](https://github.com/johuruljoy69/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/johuruljoy69)  
 
