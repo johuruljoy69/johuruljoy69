@@ -11,16 +11,8 @@ Skills: HTML5 / CSS3 / Bootstrap / TailwindCSS / JavaScript / React JS / Node.js
 - 👯 I’m looking to collaborate on GitHub 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/johuruljoy69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/johuruljoy69//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/johuruljoy69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Johuruljoy69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://johuruljoy.xyz/)  
-
 ![Johurul's GitHub stats](https://github-readme-stats.vercel.app/api?username=johuruljoy69&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johuruljoy69&repo=github-readme-stats)](https://github.com/johuruljoy69/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/johuruljoy69)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/johuruljoy69)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/johuruljoy69)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/johuruljoy69)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
