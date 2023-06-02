@@ -15,6 +15,8 @@ Skills: HTML5 / CSS3 / Bootstrap / TailwindCSS / JavaScript / React JS / Node.js
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/johuruljoy69&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/johuruljoy69)  
