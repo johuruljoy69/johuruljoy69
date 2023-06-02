@@ -15,4 +15,4 @@ Skills: HTML5 / CSS3 / Bootstrap / TailwindCSS / JavaScript / React JS / Node.js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johuruljoy69&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johuruljoy69&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
