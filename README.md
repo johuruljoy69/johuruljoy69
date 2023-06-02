@@ -13,9 +13,13 @@ I am a MERN Stack Web Developer. I am a highly skilled professional specializing
 ✅ TailwindCSS
 
 ✅ JavaScript
+
 ✅ React JS
+
 ✅ Node.js
+
 ✅ Express.js
+
 ✅ MongoDB
 
 - 🌱 I’m currently learning React.js Next.js 
