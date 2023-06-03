@@ -12,6 +12,8 @@ I am a MERN Stack Web Developer. I am a highly skilled professional specializing
 
 ✅ Bootstrap / TailwindCSS
 
+✅ REST APIs
+
 ✅ JavaScript
 
 ✅ React JS
