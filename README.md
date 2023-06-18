@@ -25,8 +25,12 @@ I am a Full Stack Web Developer. I am a highly skilled professional specializing
 ✅ MongoDB
 
 
-- 🌱 I’m currently learning Next.js, Three.js 
-- 👯 I’m looking to collaborate on GitHub 
+- 🌱 I’m currently learning React-Native, Next.js, Three.js 
+- 👯 I’m looking to collaborate on GitHub
+- 💬 Talk to me about React, Node, JavaScript, Freelancing Opportunities etc.
+- 📫 Reach me at johuruljoy90@gmail.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johuruljoy69&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
