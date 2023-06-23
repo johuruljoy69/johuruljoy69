@@ -7,12 +7,7 @@
 
 I am a Full Stack Web Developer. I am a highly skilled professional specializing in both front-end and back-end development. With a deep understanding of the latest technologies and frameworks, including HTML5, CSS3, Bootstrap, Tailwind CSS, Rest APIs, JavaScript, React, Node.js, Firebase, and MongoDB. I am capable of creating modern, responsive, and dynamic websites.
 
-### 👨‍💻 Skills & Experiance: 
-✅ HTML5 & CSS3
-
-✅ Bootstrap / TailwindCSS
-
-✅ REST APIs
+### 👨‍💻 Skills & Experience: 
 
 ✅ JavaScript
 
@@ -23,6 +18,15 @@ I am a Full Stack Web Developer. I am a highly skilled professional specializing
 ✅ Express.js
 
 ✅ MongoDB
+
+✅ Restful APIs
+
+✅ HTML5 & CSS3
+
+✅ Bootstrap / TailwindCSS
+
+
+
 
 
 - 🌱 I’m currently learning React-Native, Next.js, Three.js 
