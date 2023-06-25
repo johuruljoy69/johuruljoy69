@@ -29,7 +29,7 @@ I am a Full Stack Web Developer. I am a highly skilled professional specializing
 
 
 
-- 🌱 I’m currently learning React-Native, Next.js, Three.js 
+- 🌱 I’m currently learning React-Native, Next.js, Three.js, Vue.js
 - 👯 I’m looking to collaborate on GitHub
 - 💬 Talk to me about React, Node, JavaScript, Freelancing Opportunities etc.
 - 📫 Reach me at johuruljoy90@gmail.com
