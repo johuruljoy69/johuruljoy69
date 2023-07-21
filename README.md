@@ -13,6 +13,8 @@ I am a Full Stack Web Developer. I am a highly skilled professional specializing
 
 ✅ React JS
 
+✅ Next.js
+
 ✅ Node.js
 
 ✅ Express.js
@@ -23,7 +25,7 @@ I am a Full Stack Web Developer. I am a highly skilled professional specializing
 
 ✅ HTML5 & CSS3
 
-✅ Bootstrap / TailwindCSS
+✅ Bootstrap / TailwindCSS / Material UI
 
 
 
