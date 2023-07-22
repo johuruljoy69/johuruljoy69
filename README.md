@@ -18,11 +18,17 @@ With my strong 1 Year of solid experience in MERN stack Web development and I ha
 ### 👨‍💻 My Services:
 
 ✅ Full Stack Development
+
 ✅ MERN Stack Development
+
 ✅ React/Next.js Front-end Development
+
 ✅ Node.js/Express.js Back-end Development
+
 ✅ WordPress/Wix Portfolio/business/company web design
+
 ✅ WordPress eCommerce/Woo-commerce web Development/Customization
+
 ✅ Web Security and Penetration Testing
 
 
