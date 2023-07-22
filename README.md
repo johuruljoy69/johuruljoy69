@@ -1,6 +1,6 @@
 ![I am a Web Developer](https://media.licdn.com/dms/image/D5616AQGq-fvkxc_2zQ/profile-displaybackgroundimage-shrink_350_1400/0/1690039983258?e=1695254400&v=beta&t=lnLAEPyqp2dPQtA-xEVuOh1JSiglKzgtUoJN-YrKyiU)
 
-# Hi, I am MD Johurul Joy 👋
+# Hi, I am MD JOHURUL 👋
 
 ## 🚀 About Me
 
@@ -11,7 +11,6 @@ With my strong 1 Year of solid experience in MERN stack Web development and I ha
 ### 👨‍💻 Skills & Experience: 
 
 ✅ JavaScript    ✅ TypeScript    ✅ React JS    ✅ Next.js    ✅ Node.js    ✅ Express.js    ✅ MongoDB    ✅ Restful APIs    ✅ HTML5 & CSS3    ✅ Bootstrap / TailwindCSS / Material UI
-
 
 
 
