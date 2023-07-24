@@ -34,7 +34,7 @@ With my strong 1 Year of solid experience in MERN stack Web development and I ha
 - 🌱 I’m currently learning React-Native, Angular, Three.js, Vue.js
 - 👯 I’m looking to collaborate on GitHub
 - 💬 Talk to me about React JS, Next.js, Node.js, JavaScript, Freelancing Opportunities.
-- 📫 Reach me at johuruljoy928@gmail.com
+- 📫 Reach me at johuruljoy928@gmail.com || joy.sd69@gmail.com(Skype)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johuruljoy69&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
