@@ -10,7 +10,7 @@ With my strong 1 Year of solid experience in MERN stack Web development and I ha
 
 ### 👨‍💻 Skills & Experience: 
 
-✅ JavaScript    ✅ TypeScript    ✅ React JS    ✅ Next.js    ✅ Node.js    ✅ Express.js    ✅ MongoDB    ✅ Restful APIs    ✅ HTML5 & CSS3    ✅ Bootstrap / TailwindCSS / Material UI ✅ SASS/SCSS
+✅ JavaScript    ✅ TypeScript    ✅ React JS    ✅ Next.js    ✅ Node.js    ✅ Express.js    ✅ MongoDB    ✅ Restful APIs    ✅ HTML5 & CSS3    ✅ Bootstrap / TailwindCSS / Material UI ✅ SASS/SCSS  ✅ WordPress/Elementor Pro  ✅ Shopify/Shopify Apps ✅ Wix/Wix EditorX
 
 
 
