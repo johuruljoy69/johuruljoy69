@@ -6,7 +6,7 @@
 
 I am a Full Stack Web Developer and WordPress, Shopify & Wix EditorX Expert. I am a highly skilled professional specializing in both front-end and back-end development. And I am also a Web security analyst, Penetration testing and Malware removal expert who has 1 year of solid experience in my work career.
 
-With my strong 1 Year of solid experience in MERN stack Web development and I have a strong understanding of the full-stack development process. I would be a valuable asset to your company. I have a passion for creating efficient and user-friendly web applications using React JS, Next.js Node JS, MongoDB, Express.js, Tailwind CSS/React Bootstrap, Redux, JWT, AxiosSecure, Tanstak Query, Restful APIs, Stripe Payment, React-Awesome-Components and Firebase. Throughout my career, I have completed various projects, demonstrating my proficiency in front-end and back-end development and my ability to work with modern web technologies and frameworks.
+With my strong 2+ Years of solid experience in MERN stack Web development and I have a strong understanding of the full-stack development process. I would be a valuable asset to your company. I have a passion for creating efficient and user-friendly web applications using React JS, Next.js Node JS, MongoDB, Express.js, Tailwind CSS/React Bootstrap, Redux, JWT, AxiosSecure, Tanstak Query, Restful APIs, Stripe Payment, React-Awesome-Components and Firebase. Throughout my career, I have completed various projects, demonstrating my proficiency in front-end and back-end development and my ability to work with modern web technologies and frameworks.
 
 ### 👨‍💻 Skills & Experience: 
 
