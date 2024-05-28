@@ -4,13 +4,13 @@
 
 ## 🚀 About Me
 
-I am a Full Stack Web Developer and WordPress, Shopify & Wix EditorX Expert. I am a highly skilled professional specializing in both front-end and back-end development. And I am also a Web security analyst, Penetration testing and Malware removal expert who has 1 year of solid experience in my work career.
+I am a Full Stack Web Developer and WordPress, Shopify & Wix EditorX Expert. I am a highly skilled professional specializing in both front-end and back-end development. And I am also a Web security analyst, Penetration testing and Malware removal expert who has 2+ years of solid experience in my work career.
 
-With my strong 2+ Years of solid experience in MERN stack Web development and I have a strong understanding of the full-stack development process. I would be a valuable asset to your company. I have a passion for creating efficient and user-friendly web applications using React JS, Next.js Node JS, MongoDB, Express.js, Tailwind CSS/React Bootstrap, Redux, JWT, AxiosSecure, Tanstak Query, Restful APIs, Stripe Payment, React-Awesome-Components and Firebase. Throughout my career, I have completed various projects, demonstrating my proficiency in front-end and back-end development and my ability to work with modern web technologies and frameworks.
+With my 2+ Years of solid experience in MERN stack Web development and I have a strong understanding of the full-stack development process. I would be a valuable asset to your company. I have a passion for creating efficient and user-friendly web applications using React JS, Next.js Node JS, MongoDB, Express.js, Twin.Macro, Tailwind CSS/React Bootstrap, Redux, JWT, AxiosSecure, Tanstak Query, Restful APIs, Stripe Payment, React-Awesome-Components and Firebase. Throughout my career, I have completed various projects, demonstrating my proficiency in front-end and back-end development and my ability to work with modern web technologies and frameworks.
 
 ### 👨‍💻 Skills & Experience: 
 
-✅ JavaScript    ✅ TypeScript    ✅ React JS    ✅ Next.js    ✅ Node.js    ✅ Express.js    ✅ MongoDB    ✅ Restful APIs    ✅ HTML5 & CSS3    ✅ Bootstrap / TailwindCSS / Material UI ✅ SASS/SCSS  ✅ WordPress/Elementor Pro  ✅ Shopify/Shopify Apps ✅ Wix/Wix EditorX
+✅ JavaScript    ✅ TypeScript    ✅ React JS    ✅ Next.js    ✅ Node.js    ✅ Express.js    ✅ MongoDB ✅ Gatsby  ✅ Restful APIs    ✅ HTML5 & CSS3    ✅ Bootstrap / TailwindCSS / Material UI ✅ SASS/SCSS  ✅ Twin.Macro ✅ WordPress/Elementor Pro  ✅ Shopify/Shopify Apps ✅ Wix/Wix EditorX
 
 
 
