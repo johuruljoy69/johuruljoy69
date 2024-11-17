@@ -1,11 +1,11 @@
-![I am a Web Developer]([https://media.licdn.com/dms/image/D5616AQGq-fvkxc_2zQ/profile-displaybackgroundimage-shrink_350_1400/0/1690039983258?e=1701302400&v=beta&t=GkivCZOhNk-TIo4lvUAXyYbSBECmiXS_n8YWQMLlPFs](https://media.licdn.com/dms/image/v2/D5616AQEV32fLo79OiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731862171580?e=1737590400&v=beta&t=3wtlXr5mj5WYdbXdEOozXStB4EN1cKN3j7sjnWmT6-Y))
+![I am a Web Developer](https://media.licdn.com/dms/image/v2/D5616AQEV32fLo79OiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731862171580?e=1737590400&v=beta&t=3wtlXr5mj5WYdbXdEOozXStB4EN1cKN3j7sjnWmT6-Y)
 
 # Hi, I'm MD JOHURUL 👋
 Full Stack Web Developer | MERN Stack Specialist | WordPress & Shopify Expert
 
 ## 🚀 About Me
 
-I am a passionate Full-Stack Web Developer with over 2+ years of experience. I specialize in crafting scalable, efficient, and user-focused web applications. My expertise spans the MERN stack (React.js, Next.js, Node.js, MongoDB, Express.js) and WordPress, Shopify, and Wix EditorX for dynamic website development.
+I am a passionate Full-Stack Web Developer with over 3+ years of experience. I specialize in crafting scalable, efficient, and user-focused web applications. My expertise spans the MERN stack (React.js, Next.js, Node.js, MongoDB, Express.js) and WordPress, Shopify, and Wix EditorX for dynamic website development.
 
 I thrive on solving complex challenges and transforming ideas into seamless digital experiences. Whether it’s a business website, an eCommerce platform, or a custom web application, I bring both technical expertise and creativity to deliver high-quality results.
 
