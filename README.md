@@ -1,34 +1,43 @@
-![I am a Web Developer](https://media.licdn.com/dms/image/D5616AQGq-fvkxc_2zQ/profile-displaybackgroundimage-shrink_350_1400/0/1690039983258?e=1701302400&v=beta&t=GkivCZOhNk-TIo4lvUAXyYbSBECmiXS_n8YWQMLlPFs)
+![I am a Web Developer]([https://media.licdn.com/dms/image/D5616AQGq-fvkxc_2zQ/profile-displaybackgroundimage-shrink_350_1400/0/1690039983258?e=1701302400&v=beta&t=GkivCZOhNk-TIo4lvUAXyYbSBECmiXS_n8YWQMLlPFs](https://media.licdn.com/dms/image/v2/D5616AQEV32fLo79OiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731862171580?e=1737590400&v=beta&t=3wtlXr5mj5WYdbXdEOozXStB4EN1cKN3j7sjnWmT6-Y))
 
-# Hi, I am MD JOHURUL 👋
+# Hi, I'm MD JOHURUL 👋
+Full Stack Web Developer | MERN Stack Specialist | WordPress & Shopify Expert
 
 ## 🚀 About Me
 
-I am a Full Stack Web Developer and WordPress, Shopify & Wix EditorX Expert. I am a highly skilled professional specializing in both front-end and back-end development. And I am also a Web security analyst, Penetration testing and Malware removal expert with 2+ years of solid experience in my work career.
+I am a passionate Full-Stack Web Developer with over 2+ years of experience. I specialize in crafting scalable, efficient, and user-focused web applications. My expertise spans the MERN stack (React.js, Next.js, Node.js, MongoDB, Express.js) and WordPress, Shopify, and Wix EditorX for dynamic website development.
 
-With my 2+ Years of solid experience in MERN stack Web development and I have a strong understanding of the full-stack development process. I would be a valuable asset to your company. I am passionate about creating efficient and user-friendly web applications using React JS, Next.js Node JS, MongoDB, Express.js, and Twin. Macro, Tailwind CSS/React Bootstrap, Redux, JWT, AxiosSecure, Tanstak Query, Restful APIs, Stripe Payment, React-Awesome-Components and Firebase. I have completed various projects throughout my career, demonstrating my proficiency in front-end and back-end development and my ability to work with modern web technologies and frameworks.
+I thrive on solving complex challenges and transforming ideas into seamless digital experiences. Whether it’s a business website, an eCommerce platform, or a custom web application, I bring both technical expertise and creativity to deliver high-quality results.
 
-### 👨‍💻 Skills & Experience: 
+### 👨‍💻 My Core Skills:
+Front-End Development:
+✅ JavaScript (ES6+) | ✅ React.js | ✅ Next.js | ✅ Gatsby
+✅ Tailwind CSS | ✅ Material UI | ✅ SASS/SCSS | ✅ Bootstrap
 
-✅ JavaScript(ES6)    ✅ TypeScript    ✅ React JS    ✅ Next.js    ✅ Node.js    ✅ Express.js    ✅ MongoDB ✅ Gatsby  ✅ Restful APIs    ✅ HTML5 & CSS3    ✅ Bootstrap / TailwindCSS / Material UI ✅ SASS/SCSS  ✅ Twin.Macro ✅ WordPress/Elementor Pro  ✅ Shopify/Shopify Apps ✅ Wix/Wix EditorX
+Back-End Development:
+✅ Node.js | ✅ Express.js | ✅ MongoDB | ✅ Restful APIs
+
+CMS Expertise:
+✅ WordPress (Elementor Pro) | ✅ Shopify (Custom Themes & Apps) | ✅ Wix (EditorX)
+
+Advanced Tools & Techniques:
+✅ Redux | ✅ Firebase | ✅ Stripe Payment Integration | ✅ AxiosSecure | ✅ TanStack Query
 
 
 
-### 👨‍💻 My Services:
+### 💼 My Web Development Services:
+✅ Full-Stack Web Development (MERN Stack)
+✅ React.js/Next.js Front-End Development
+✅ Node.js/Express.js API Development
+✅ WordPress, Shopify, and Wix Website Design & Development
+✅ WooCommerce and eCommerce Store Customization
+✅ Performance Optimization and Responsive Web Design
 
-✅ Full Stack Development
-
-✅ MERN Stack Development
-
-✅ React/Next.js Front-end Development
-
-✅ Node.js/Express.js Back-end Development
-
-✅ WordPress/Shopify/Wix Portfolio/business/company web design
-
-✅ WordPress/Shopify eCommerce/Woo-commerce web Development/Customization
-
-✅ Web Security and Penetration Testing
+🌟 Why Work With Me?
+🔹 Expertise in modern web technologies and frameworks.
+🔹 Commitment to clean, maintainable, and scalable code.
+🔹 Focus on creating responsive, user-friendly interfaces.
+🔹 Proven ability to meet deadlines and deliver high-quality results.
 
 
 - 🌱 I’m currently learning React-Native, Angular, Three.js, Vue.js
