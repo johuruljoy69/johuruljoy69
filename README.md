@@ -1,5 +1,5 @@
 
-# Hi, I'm MD JOHURUL 👋
+# Hi, I'm MD JOHURUL JOY 👋
 Full Stack Web Developer | MERN Stack Specialist | WordPress & Shopify Expert
 
 ## 🚀 About Me
