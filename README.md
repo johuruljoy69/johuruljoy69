@@ -4,7 +4,7 @@ Full Stack Web Developer | MERN Stack Specialist | WordPress & Shopify Expert
 
 ## 🚀 About Me
 
-I am a passionate Full-Stack Web Developer with over 3+ years of experience. I specialize in crafting scalable, efficient, and user-focused web applications. My expertise spans the MERN stack (React.js, Next.js, Node.js, MongoDB, Express.js) and WordPress, Shopify, and Wix EditorX for dynamic website development.
+I am a passionate Full-Stack Web Developer with over 5+ years of experience. I specialize in crafting scalable, efficient, and user-focused web applications. My expertise spans the MERN stack (React.js, Next.js, Node.js, MongoDB, Express.js) and WordPress, Shopify, and Wix EditorX for dynamic website development.
 
 I thrive on solving complex challenges and transforming ideas into seamless digital experiences. Whether it’s a business website, an eCommerce platform, or a custom web application, I bring both technical expertise and creativity to deliver high-quality results.
 
